@@ -1,7 +1,13 @@
 .App {
   text-align: center;
 }
-
+.card{
+  height: 100px;
+  width: 500px;
+  align-items: stretch;
+  margin: 12px;
+  padding: 12px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
