@@ -1,0 +1,7 @@
+.footer a{
+    color: #fff;
+    text-decoration: none !important;
+}
+.footer :hover{
+    color:gray;
+}
