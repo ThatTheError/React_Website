@@ -11,3 +11,7 @@
 .container-fluid{
     background-color:darkslategrey
 }
+#navlink{
+    color: white;
+    font-weight:bolder;
+}

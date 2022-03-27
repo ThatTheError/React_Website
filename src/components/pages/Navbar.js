@@ -13,13 +13,13 @@ function Navbar() {
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-          <Link to="/" class="nav-link active">Home</Link>
+          <Link to="/" class="nav-link active" id='navlink'>Home</Link>
         </li>
         <li class="nav-item">
-            <Link to="/About" class="nav-link">About-Us</Link>
+            <Link to="/About" class="nav-link" id='navlink'>About-Us</Link>
         </li>
         <li class="nav-item">
-        <Link to="/Contact" class="nav-link">Contact-US</Link>
+        <Link to="/Contact" class="nav-link" id='navlink'>Contact-US</Link>
         </li>
       </ul>
     </div>
