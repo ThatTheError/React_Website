@@ -33,6 +33,7 @@ function Footer() {
                         <div><p className="text-white mb-1">LinkedIn: https://www.linkedin.com/in/v-gopal-krushna-patro-2906a8165/</p></div>
                         <div><p className="text-white mb-1">email: gkp020@nist.edu</p></div>
                     </div>
+                     
                 </div>
             </div>
 

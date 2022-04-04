@@ -19,7 +19,7 @@ function Navbar() {
             <Link to="/About" class="nav-link" id='navlink'>About-Us</Link>
         </li>
         <li class="nav-item">
-        <Link to="/Contact" class="nav-link" id='navlink'>Contact-US</Link>
+        <Link to="/Contact" class="nav-link" id='navlink'>Contact-Us</Link>
         </li>
       </ul>
     </div>

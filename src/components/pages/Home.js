@@ -4,7 +4,6 @@ import Sliders from "../inc/Sliders";
 import Vmc from "./Vmc";
 import './Home.css'
 import Products from "./Products";
-import Footer from "../inc/Footer";
 
 function Home() {
   return (
